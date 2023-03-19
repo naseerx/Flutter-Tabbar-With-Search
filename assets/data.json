@@ -1,0 +1,59 @@
+{
+  "rentalData": [
+    {
+      "name": "Paul Paris",
+      "sDate": "11 Aug 2022",
+      "eDate": "14 Aug 2022",
+      "carName": "Toyota Yaris",
+      "lNumber": "EL525RC",
+      "status": "Cancelled",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "name": "Mean Jones",
+      "sDate": "1 Jul 2022",
+      "eDate": "3 Jul 2022",
+      "carName": "Toyota Yaris",
+      "lNumber": "EL525RC",
+      "status": "Ended",
+      "image": "https://picsum.photos/201"
+    },
+    {
+      "name": "Pierre Emanuel",
+      "sDate": "11 Aug 2022",
+      "eDate": "14 Aug 2022",
+      "carName": "Toyota Yaris",
+      "lNumber": "EL525RC",
+      "status": "Cancelled",
+      "image": "https://picsum.photos/202"
+    },
+    {
+      "name": "Delphine Chenuet",
+      "sDate": "11 Aug 2022",
+      "eDate": "14 Aug 2022",
+      "carName": "Toyota Yaris",
+      "lNumber": "EL525RC",
+      "status": "Ended",
+      "image": "https://picsum.photos/203"
+    },
+    {
+      "name": "Ocean Cleave",
+      "sDate": "11 Aug 2022",
+      "eDate": "14 Aug 2022",
+      "carName": "Toyota Yaris",
+      "lNumber": "EL525RC",
+      "status": "Cancelled",
+      "image": "https://picsum.photos/204"
+    },
+    {
+      "name": "Laurel Paris",
+      "sDate": "11 Aug 2022",
+      "eDate": "14 Aug 2022",
+      "carName": "Toyota Yaris",
+      "lNumber": "EL525RC",
+      "status": "Cancelled",
+      "image": "https://picsum.photos/205"
+    }
+
+  ]
+} 
