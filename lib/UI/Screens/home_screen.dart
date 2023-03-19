@@ -33,7 +33,7 @@ class _RentalsDetailScreenState extends State<RentalsDetailScreen> {
               const Padding(
                 padding: EdgeInsets.symmetric(horizontal: 20.0, vertical: 10),
                 child: Text(
-                  rentals,
+                  users,
                   style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
                 ),
               ),
@@ -46,7 +46,7 @@ class _RentalsDetailScreenState extends State<RentalsDetailScreen> {
                     decoration: InputDecoration(
                       contentPadding: const EdgeInsets.all(0),
                       prefixIcon: const Icon(Icons.search_outlined),
-                      hintText: searchForRental,
+                      hintText: searchForUser,
                       fillColor: gOffWhite,
                       filled: true,
                       border: InputBorder.none,

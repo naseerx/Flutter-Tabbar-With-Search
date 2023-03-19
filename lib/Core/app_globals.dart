@@ -6,8 +6,8 @@ import 'package:flutter/material.dart';
 ///  Strings
 // App Title
 const String appTitle = "Flutter Tabbar";
-const String rentals ="Rentals";
-const String searchForRental ="Search for a rental";
+const String users ="Users";
+const String searchForUser ="Search for a User";
 const String upComing = "UpComing";
 const String inProgress = "InProgress";
 const String ended = "Ended";
