@@ -1,12 +1,22 @@
 # flutter_tabbar
 
-A new Flutter project.
+Flutter TabBar with Search
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Demo:
+
+<p align="center">
+  <a href='https://youtu.be/22oc7jE131Q'>
+ <img src="https://github.com/naseerx/Flutter-Tabbar-With-Search/blob/main/ss/tabbar.gif">
+  </a>
+</p>
+
+
 
 A few resources to get you started if this is your first Flutter project:
+
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
