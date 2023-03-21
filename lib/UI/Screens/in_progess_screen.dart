@@ -20,11 +20,11 @@ class _InProgressScreenState extends State<InProgressScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: FutureBuilder<List<RentalModel>>(
+      body: FutureBuilder<List<RentalsModel>>(
         future: localJsonServices.getAllData(context, widget.searchQuery),
         builder: (BuildContext context, AsyncSnapshot snapshot) {
           if (snapshot.hasData) {
-            List<RentalModel> data = snapshot.data;
+            List<RentalsModel> data = snapshot.data;
             return ListView.builder(
                 itemCount: data.length,
                 itemBuilder: (context, index) {

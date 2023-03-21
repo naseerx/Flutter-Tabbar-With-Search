@@ -33,7 +33,7 @@ class _RentalsDetailScreenState extends State<RentalsDetailScreen> {
               const Padding(
                 padding: EdgeInsets.symmetric(horizontal: 20.0, vertical: 10),
                 child: Text(
-                  users,
+                  user,
                   style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
                 ),
               ),
@@ -132,7 +132,7 @@ class _RentalsDetailScreenState extends State<RentalsDetailScreen> {
                                   ),
                             selectIndex != 2
                                 ? const Text(
-                                    ended,
+                                    end,
                                     style: TextStyle(
                                         color: gBlack, fontSize: 15),
                                   )
@@ -145,7 +145,7 @@ class _RentalsDetailScreenState extends State<RentalsDetailScreen> {
                                     ),
                                     child: const Center(
                                       child: Text(
-                                        ended,
+                                        end,
                                         style: TextStyle(
                                             color: gBlack, fontSize: 18),
                                       ),

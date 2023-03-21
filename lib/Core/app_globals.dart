@@ -6,11 +6,11 @@ import 'package:flutter/material.dart';
 ///  Strings
 // App Title
 const String appTitle = "Flutter Tabbar";
-const String users ="Users";
+const String user ="Users";
 const String searchForUser ="Search for a User";
 const String upComing = "UpComing";
 const String inProgress = "InProgress";
-const String ended = "Ended";
+const String end = "Ended";
 const String rentalData = "rentalData";
 
 ///  //////////////////////////

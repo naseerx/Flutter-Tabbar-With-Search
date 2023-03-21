@@ -1,4 +1,4 @@
-class RentalModel {
+class RentalsModel {
   late String name;
   late String image;
   late String status;
@@ -7,7 +7,7 @@ class RentalModel {
   late String eDate;
   late String sDate;
 
-  RentalModel({
+  RentalsModel({
     required this.name,
     required this.image,
     required this.status,
@@ -19,8 +19,8 @@ class RentalModel {
 
   // Json to Dart Object
 
-  factory RentalModel.fromJSON(Map<String, dynamic> map) {
-    return RentalModel(
+  factory RentalsModel.fromJSON(Map<String, dynamic> map) {
+    return RentalsModel(
       name: map['name'],
       carName: map['carName'],
       eDate: map['eDate'],
